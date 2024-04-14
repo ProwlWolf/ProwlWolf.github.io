@@ -13,7 +13,7 @@ header {
 
 header h1 {
     margin: 0; /* Remove default margin */
-    font-size: 132px; /* Adjust font size */
+    font-size: 100px; /* Adjust font size */
 }
 
 main {
